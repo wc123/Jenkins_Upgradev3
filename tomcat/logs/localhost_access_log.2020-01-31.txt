@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET / HTTP/1.1" 200 11415
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /tomcat.png HTTP/1.1" 200 5103
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /tomcat.css HTTP/1.1" 200 5931
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /bg-nav.png HTTP/1.1" 200 1401
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /bg-button.png HTTP/1.1" 200 713
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /bg-upper.png HTTP/1.1" 200 3103
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /bg-middle.png HTTP/1.1" 200 1918
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:04:32 +0800] "GET /asf-logo-wide.svg HTTP/1.1" 200 27530
+127.0.0.1 - tomcat [31/Jan/2020:19:07:45 +0800] "GET /manager/text/list HTTP/1.1" 200 201
+127.0.0.1 - tomcat [31/Jan/2020:19:07:45 +0800] "GET /manager/text/list HTTP/1.1" 200 201
+127.0.0.1 - tomcat [31/Jan/2020:19:07:45 +0800] "GET /manager/text/undeploy?path=%2F HTTP/1.1" 200 60
+127.0.0.1 - tomcat [31/Jan/2020:19:07:46 +0800] "PUT /manager/text/deploy?path=%2F HTTP/1.1" 200 48
+0:0:0:0:0:0:0:1 - - [31/Jan/2020:19:08:10 +0800] "GET / HTTP/1.1" 200 105
+127.0.0.1 - tomcat [31/Jan/2020:19:10:16 +0800] "GET /manager/text/list HTTP/1.1" 200 201
+127.0.0.1 - tomcat [31/Jan/2020:19:10:16 +0800] "GET /manager/text/list HTTP/1.1" 200 201
+127.0.0.1 - tomcat [31/Jan/2020:19:10:16 +0800] "GET /manager/text/undeploy?path=%2F HTTP/1.1" 200 60
+127.0.0.1 - tomcat [31/Jan/2020:19:10:16 +0800] "PUT /manager/text/deploy?path=%2F HTTP/1.1" 200 48

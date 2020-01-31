@@ -1,0 +1,62 @@
+31-Jan-2020 19:02:59.911 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Server.服务器版本:     Apache Tomcat/9.0.30
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器构建:            Dec 7 2019 16:42:04 UTC
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 服务器版本号(：9.0.30.0
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS Name:               Windows 10
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log OS.版本:               10.0
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log 架构:                  amd64
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Java 环境变量:         C:\WebSphere\WAS90\java\8.0\jre
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM 版本:              8.0.6.0 - pwa6480sr6-20191107_01(SR6)
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log JVM.供应商:            IBM Corporation
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_BASE:         C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log CATALINA_HOME:         C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xoptionsfile=C:\WebSphere\WAS90\java\8.0\jre\bin\compressedrefs\options.default
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xlockword:mode=default,noLockword=java/lang/String,noLockword=java/util/MapEntry,noLockword=java/util/HashMap$Entry,noLockword=org/apache/harmony/luni/util/ModifiedMap$Entry,noLockword=java/util/Hashtable$Entry,noLockword=java/lang/invoke/MethodType,noLockword=java/lang/invoke/MethodHandle,noLockword=java/lang/invoke/CollectHandle,noLockword=java/lang/invoke/ConstructorHandle,noLockword=java/lang/invoke/ConvertHandle,noLockword=java/lang/invoke/ArgumentConversionHandle,noLockword=java/lang/invoke/AsTypeHandle,noLockword=java/lang/invoke/ExplicitCastHandle,noLockword=java/lang/invoke/FilterReturnHandle,noLockword=java/lang/invoke/DirectHandle,noLockword=java/lang/invoke/ReceiverBoundHandle,noLockword=java/lang/invoke/DynamicInvokerHandle,noLockword=java/lang/invoke/FieldHandle,noLockword=java/lang/invoke/FieldGetterHandle,noLockword=java/lang/invoke/FieldSetterHandle,noLockword=java/lang/invoke/StaticFieldGetterHandle,noLockword=java/lang/invoke/StaticFieldSetterHandle,noLockword=java/lang/invoke/IndirectHandle,noLockword=java/lang/invoke/InterfaceHandle,noLockword=java/lang/invoke/VirtualHandle,noLockword=java/lang/invoke/PrimitiveHandle,noLockword=java/lang/invoke/InvokeExactHandle,noLockword=java/lang/invoke/InvokeGenericHandle,noLockword=java/lang/invoke/VarargsCollectorHandle,noLockword=java/lang/invoke/ThunkTuple
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Xjcl:jclse29
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcom.ibm.oti.vm.bootstrap.library.path=C:\WebSphere\WAS90\java\8.0\jre\bin\compressedrefs;C:\WebSphere\WAS90\java\8.0\jre\bin
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.boot.library.path=C:\WebSphere\WAS90\java\8.0\jre\bin\compressedrefs;C:\WebSphere\WAS90\java\8.0\jre\bin
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.library.path=C:\WebSphere\WAS90\java\8.0\jre\bin\compressedrefs;C:\WebSphere\WAS90\java\8.0\jre\bin;C:\Windows\system32;C:\Windows;C:\Program Files (x86)\IBM\WebSphere MQ\Java\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\IBM\Trace Facility;C:\Program Files (x86)\ooRexx;C:\Program Files (x86)\IBM\Personal Communications\;C:\Program Files (x86)\IBM\Trace Facility\;C:\Program Files (x86)\IBM\WebSphere MQ\bin64;C:\Program Files (x86)\IBM\WebSphere MQ\bin;C:\Program Files (x86)\IBM\WebSphere MQ\tools\c\samples\bin;C:\Program Files (x86)\PuTTY\;C:\Program Files (x86)\Sennheiser\SoftphoneSDK\;C:\Users\CHENWANG\AppData\Local\Microsoft\WindowsApps;;.
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.home=C:\WebSphere\WAS90\java\8.0\jre
+31-Jan-2020 19:02:59.926 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.ext.dirs=C:\WebSphere\WAS90\java\8.0\jre\lib\ext
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Duser.dir=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\bin
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.runtime.version=pwa6480sr6-20191107_01 (SR6)
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dconsole.encoding=MS936
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.class.path=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\bin\bootstrap.jar;C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\bin\tomcat-juli.jar
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.config.file=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\conf\logging.properties
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.protocol.handler.pkgs=org.apache.catalina.webresources
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dignore.endorsed.dirs=
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.class.path=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\bin\bootstrap.jar;C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\bin\tomcat-juli.jar
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.base=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dcatalina.home=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Djava.io.tmpdir=C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\temp
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.java.command=org.apache.catalina.startup.Bootstrap start
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.startup.VersionLoggerListener.log Command line argument: -Dsun.java.launcher=SUN_STANDARD
+31-Jan-2020 19:02:59.942 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent Loaded APR based Apache Tomcat Native library [1.2.23] using APR version [1.7.0].
+31-Jan-2020 19:02:59.957 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+31-Jan-2020 19:02:59.957 信息 [main] org.apache.catalina.core.AprLifecycleListener.lifecycleEvent APR/OpenSSL配置：useAprConnector[false]，useOpenSSL[true]
+31-Jan-2020 19:02:59.957 信息 [main] org.apache.catalina.core.AprLifecycleListener.initializeSSL OpenSSL successfully initialized [OpenSSL 1.1.1c  28 May 2019]
+31-Jan-2020 19:03:00.859 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["http-nio-9090"]
+31-Jan-2020 19:03:01.128 信息 [main] org.apache.coyote.AbstractProtocol.init 初始化协议处理器 ["ajp-nio-8009"]
+31-Jan-2020 19:03:01.144 信息 [main] org.apache.catalina.startup.Catalina.load 服务器在[3,042]毫秒内初始化
+31-Jan-2020 19:03:01.206 信息 [main] org.apache.catalina.core.StandardService.startInternal Starting service [Catalina]
+31-Jan-2020 19:03:01.206 信息 [main] org.apache.catalina.core.StandardEngine.startInternal 正在启动 Servlet 引擎：[Apache Tomcat/9.0.30]
+31-Jan-2020 19:03:01.229 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\docs]
+31-Jan-2020 19:03:01.592 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\docs] has finished in [363] ms
+31-Jan-2020 19:03:01.592 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\examples]
+31-Jan-2020 19:03:03.078 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\examples] has finished in [1,486] ms
+31-Jan-2020 19:03:03.078 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\host-manager]
+31-Jan-2020 19:03:03.144 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\host-manager] has finished in [66] ms
+31-Jan-2020 19:03:03.144 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\manager]
+31-Jan-2020 19:03:03.207 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\manager] has finished in [63] ms
+31-Jan-2020 19:03:03.222 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory 把web 应用程序部署到目录 [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT]
+31-Jan-2020 19:03:03.260 信息 [main] org.apache.catalina.startup.HostConfig.deployDirectory Deployment of web application directory [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT] has finished in [38] ms
+31-Jan-2020 19:03:03.260 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["http-nio-9090"]
+31-Jan-2020 19:03:03.276 信息 [main] org.apache.coyote.AbstractProtocol.start 开始协议处理句柄["ajp-nio-8009"]
+31-Jan-2020 19:03:03.291 信息 [main] org.apache.catalina.startup.Catalina.start Server startup in [2,145] milliseconds
+31-Jan-2020 19:07:45.951 信息 [http-nio-9090-exec-3] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+31-Jan-2020 19:07:45.967 信息 [http-nio-9090-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT.war]
+31-Jan-2020 19:07:46.099 信息 [http-nio-9090-exec-10] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT.war] has finished in [132] ms
+31-Jan-2020 19:10:16.719 信息 [http-nio-9090-exec-13] org.apache.catalina.startup.HostConfig.undeploy Undeploying context []
+31-Jan-2020 19:10:16.727 信息 [http-nio-9090-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deploying web application archive [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT.war]
+31-Jan-2020 19:10:16.804 信息 [http-nio-9090-exec-17] org.apache.catalina.startup.HostConfig.deployWAR Deployment of web application archive [C:\Users\CHENWANG\Desktop\Jenkins_Upgradev3\tomcat\webapps\ROOT.war] has finished in [77] ms
